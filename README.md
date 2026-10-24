@@ -1,3 +1,7 @@
+> This repo was an initial prototype for the JG War Week App. It can be used as a reference point for my initial thoughts on how the app should work. However, several features and architecture changes have changed since this prototype.
+>
+> Please see the repo https://github.com/JahnelGroup/jg-war-week for the source code for the latest iteration of the JG War Week App.
+
 # jg-war-week
 
 War Week: themes, schedule, teams, competitions (including Brackets of any
